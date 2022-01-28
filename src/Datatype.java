@@ -2,6 +2,7 @@
 class Datatype {
 	int id;
 	int branchId;
+	private int nani;
 }
 class test1{
 	public static void main(String[] args) {
